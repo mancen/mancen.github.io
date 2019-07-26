@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mancen.github.io/about/index.html</loc>
+    
+    <lastmod>2019-07-26T09:49:29.571Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mancen.github.io/2019/07/26/Markdown/</loc>
     
     <lastmod>2019-07-26T09:11:41.965Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://mancen.github.io/2019/07/26/hexo-tutorial/</loc>
     
     <lastmod>2019-07-26T06:42:36.715Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mancen.github.io/about/index.html</loc>
-    
-    <lastmod>2019-07-26T03:21:01.270Z</lastmod>
     
   </url>
   
