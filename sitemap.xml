@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mancen.github.io/mancen/about/index.html</loc>
+    <loc>https://mancen.github.io/2019/07/26/hexo-tutorial/</loc>
+    
+    <lastmod>2019-07-26T06:39:00.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mancen.github.io/about/index.html</loc>
     
     <lastmod>2019-07-26T03:21:01.270Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mancen.github.io/mancen/categories/index.html</loc>
+    <loc>https://mancen.github.io/categories/index.html</loc>
     
     <lastmod>2019-07-26T01:22:51.811Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mancen.github.io/mancen/tags/index.html</loc>
+    <loc>https://mancen.github.io/tags/index.html</loc>
     
     <lastmod>2019-07-26T01:22:10.569Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mancen.github.io/mancen/commonweal/index.html</loc>
+    <loc>https://mancen.github.io/commonweal/index.html</loc>
     
     <lastmod>2019-07-26T00:42:43.140Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mancen.github.io/mancen/2019/07/25/hello-world/</loc>
+    <loc>https://mancen.github.io/2019/07/25/hello-world/</loc>
     
     <lastmod>2019-07-25T14:23:39.446Z</lastmod>
     
