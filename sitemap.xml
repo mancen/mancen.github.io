@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mancen.github.io/2019/09/01/git-tag/</loc>
+    
+    <lastmod>2019-09-01T09:25:10.583Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mancen.github.io/2019/08/31/git-command/</loc>
     
-    <lastmod>2019-08-31T08:44:31.318Z</lastmod>
+    <lastmod>2019-09-01T09:09:59.811Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mancen.github.io/2019/09/01/git-branch/</loc>
+    
+    <lastmod>2019-09-01T08:51:53.240Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://mancen.github.io/2019/08/31/git-begining/</loc>
     
-    <lastmod>2019-08-31T08:10:10.778Z</lastmod>
+    <lastmod>2019-09-01T08:51:17.087Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mancen.github.io/2019/09/01/github-tutorial/</loc>
+    
+    <lastmod>2019-09-01T08:50:44.551Z</lastmod>
     
   </url>
   
